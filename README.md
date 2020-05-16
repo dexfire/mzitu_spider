@@ -29,4 +29,4 @@ It was caused by the website attack protection system, wait for a moment, or usi
 Welcome visiting [my blog](https://dexfire.cn).
 
 ## License
-[MIT](MIT)
+[MIT](LICENSE)
