@@ -21,11 +21,12 @@ self.proxy = {
 ```
 
 ## Known issues
-1. HTTP 429 Code
+1. HTTP 429 Code  
+
 It was caused by the website attack protection system, wait for a moment, or using a proxy pool!
 
 ## About
 Welcome visiting [my blog](https://dexfire.cn).
 
 ## License
-[MIT][MIT]
+[MIT](MIT)
